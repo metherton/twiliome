@@ -1,0 +1,24 @@
+{
+  "name": "twiliome",
+  "version": "1.0.0",
+  "description": "Wrapper for Twilio client vanilla javascript library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/metherton/twiliome.git"
+  },
+  "keywords": [
+    "twilio",
+    "angular",
+    "wrapper"
+  ],
+  "author": "Martin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/metherton/twiliome/issues"
+  },
+  "homepage": "https://github.com/metherton/twiliome#readme"
+}
